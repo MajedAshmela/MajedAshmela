@@ -14,10 +14,10 @@
 ![VMware](https://img.shields.io/badge/VMware-ESXi-orange)
 
 ## 📊 GitHub Stats
-![Majed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MajedAshmela&show_icons=true&theme=dark)
+![Majed's GitHub stats](https://readme-stats-eight-phi.vercel.app/api?username=MajedAshmela&show_icons=true&theme=dark)
 
 ## 🌐 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedAshmela&layout=compact&theme=dark)
+![Top Langs](https://readme-stats-eight-phi.vercel.app/api/top-langs/?username=MajedAshmela&layout=compact&theme=dark)
 
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=MajedAshmela&color=blue)
