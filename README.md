@@ -25,3 +25,5 @@
 ## ⚡ Fun Facts
 - 📚 I enjoy reading in my free time
 - 🔐 Passionate about Cybersecurity
+---
+## *"A journey of a thousand miles begins with a single step"*
