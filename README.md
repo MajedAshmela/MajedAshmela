@@ -5,7 +5,6 @@
 - 👯 I'm looking to collaborate on **Cybersecurity & Network Security projects**
 - 💬 Ask me about **Networking, Linux, and Security**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/majed-ashmela)
-- ⚡ Fun fact: **I built a mini SOC environment using MCP as my graduation project**
 
 ## 🛠️ Skills
 ![Networking](https://img.shields.io/badge/Networking-CCNP-blue)
