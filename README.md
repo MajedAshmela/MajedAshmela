@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/majed-ashmela)
 
 ## 🛠️ Skills
-![Networking](https://img.shields.io/badge/Networking-CCNP-blue)
+![Networking](https://img.shields.io/badge/Networking-CCNA-blue)
 ![Linux](https://img.shields.io/badge/Linux-Red%20Hat-red)
 ![Security](https://img.shields.io/badge/Cybersecurity-Learning-green)
 ![VMware](https://img.shields.io/badge/VMware-ESXi-orange)
