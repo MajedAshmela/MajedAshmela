@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **building my path in Cybersecurity**
 - 🌱 I'm currently learning **Cybersecurity, Threat Detection & Network Security**
-- 👯 I'm looking to collaborate on **Cybersecurity & Network Security projects**
+- I'm looking to collaborate on **Cybersecurity & Network Security projects**
 - 💬 Ask me about **Networking, Linux, and Security**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/majed-ashmela)
 
